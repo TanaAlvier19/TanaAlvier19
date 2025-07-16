@@ -23,12 +23,17 @@ Buscando colaborar com projetos que envolvam **inteligência artificial aplicada
 ## 🛠 Tecnologias
 
 **Principais:**
-- <div style="display: inline-block"><img align="center" alt="Python" src="https://badges.aleen42.com/src/python.svg" />
+- <div style="display: inline-block">
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</div> · <div style="display: inline-block"><img align="center" alt="Python" src="https://badges.aleen42.com/src/django.svg" />
-
-</div> · Django REST · Next.js · React · TailwindCSS  
-- Git · Postman · SQLite · PostgreSQL
+</div> 
 
 **Aprendendo agora:**
 - Docker · CI/CD · FastAPI ·

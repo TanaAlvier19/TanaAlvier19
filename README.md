@@ -11,6 +11,7 @@ Sou um desenvolvedor fullstack com foco em **Python**, **Django** e **Next.js**.
 > Sistema completo com autenticação via JWT, backend Django REST + frontend Next.js moderno e responsivo.  
 > 💡 Foco: API RESTful, autenticação segura, UX moderna, boas práticas com TailwindCSS.  
 > 🔗 [Ver no GitHub](https://github.com/TanaAlvier19/software_fila_virtual)
+> 🔗 [Ver o Software](https://e-final.vercel.app/)
 
 
 ---

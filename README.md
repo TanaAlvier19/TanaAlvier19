@@ -10,7 +10,7 @@ Sou um desenvolvedor fullstack com foco em **Python**, **Django** e **Next.js**.
 ### 🏥 E-Fila (Sistema de Gestão de Filas para Bancos)
 > Sistema completo com autenticação via JWT, backend Django REST + frontend Next.js moderno e responsivo.  
 > 💡 Foco: API RESTful, autenticação segura, UX moderna, boas práticas com TailwindCSS.  
-> 🔗 [Ver no GitHub](https://github.com/software-fila-virtual)
+> 🔗 [Ver no GitHub](https://github.com/TanaAlvier19/software_fila_virtual)
 
 
 ---

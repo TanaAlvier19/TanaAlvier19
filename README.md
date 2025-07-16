@@ -3,7 +3,8 @@
 Sou um desenvolvedor fullstack com foco em **Python**, **Django** e **Next.js**. Apaixonado por criar sistemas reais com impacto, desde aplicações web modernas até diversas soluções. Acredito em código limpo, aprendizado constante e boas práticas como base para um software escalável.
 
 ---
-
+![Tana Alvier GitHub stats](https://github-readme-stats.vercel.app/api?username=TanaAlvier19&show_icons=true&theme=radical)
+---
 ## 🚀 Projetos em Destaque
 
 ### 🏥 E-Fila (Sistema de Gestão de Filas para Bancos)

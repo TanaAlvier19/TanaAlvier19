@@ -24,7 +24,7 @@ Buscando colaborar com projetos que envolvam **inteligência artificial aplicada
 ## 🛠 Tecnologias
 
 **Principais:**
-- <div style="display: inline-block">
+ <div style="display: inline-block">
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)

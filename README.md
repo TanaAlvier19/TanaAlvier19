@@ -23,7 +23,11 @@ Buscando colaborar com projetos que envolvam **inteligência artificial aplicada
 ## 🛠 Tecnologias
 
 **Principais:**
-- Python · Django · Django REST · Next.js · React · TailwindCSS  
+- <div style="display: inline-block"><img align="center" alt="Python" src="https://badges.aleen42.com/src/python.svg" />
+
+</div> · <div style="display: inline-block"><img align="center" alt="Python" src="https://badges.aleen42.com/src/django.svg" />
+
+</div> · Django REST · Next.js · React · TailwindCSS  
 - Git · Postman · SQLite · PostgreSQL
 
 **Aprendendo agora:**

@@ -43,7 +43,7 @@ Buscando colaborar com projetos que envolvam **inteligência artificial aplicada
 
 ## 🌍 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Tan](https://www.linkedin.com/in/tana-alvier-2944b6345/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/tana-alvier-2944b6345/))  
 📧 tanaalvier@email.com
 
 ---
